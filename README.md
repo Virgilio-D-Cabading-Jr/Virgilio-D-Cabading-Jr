@@ -1,11 +1,11 @@
 ## Hello human, 👋🏼
 
 <p align="center">
-Hi, I am Virgilio D. Cabading Jr., an enthusiastic, team playing, and quick learning Software Developer.
+Hi, I am Virgilio D. Cabading Jr., an enthusiastic, team oriented, and quick learning Software Developer.
 </p>
 
 <p align="center">
-I recently completed an immersive training experience in Full Stack Developement using Python (Flask), Java (Spring) and Javascript (MERN) through Coding Dojo.
+I recently completed an immersive training experience in Full Stack Developement using  Python (Flask), Java (Spring) and Javascript (MERN) through Coding Dojo.
 </p>
   
 <!--
