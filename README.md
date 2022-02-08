@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hello human, 👋🏼
 
+<p align="center">
+Hi, I am Virgilio D. Cabading Jr., an enthusiastic, team playing, and quick learning Software Developer.
+</p>
+
+<p align="center">
+I recently completed an immersive training experience in Full Stack Developement using Python (Flask), Java (Spring) and Javascript (MERN) through Coding Dojo.
+</p>
+  
 <!--
 **Virgilio-D-Cabading-Jr/Virgilio-D-Cabading-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
