@@ -18,7 +18,7 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
-<h3>Frameworks I have use 📦:</h3>
+<h3>Frameworks I use 📦:</h3>
 
 1. MERN: [ MongoDB, Express, React, Node.js ]
 2. Spring Boot
@@ -26,7 +26,7 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
-<h3>Databases I use 📚:</h3>
+<h3>Databases I use 📊:</h3>
 
 1. MySQL: [ workbench ]
 2. MongoDB: [ NoSQL, Mongoose ]
@@ -49,6 +49,21 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
         <td>3</td>
         <td>GitHub</td>
         <td><a href="https://github.com/Virgilio-D-Cabading-Jr">https://github.com/Virgilio-D-Cabading-Jr</a></td>
+    </tr>
+</table>
+
+<hr/>
+
+<h3>My Education 🎓:</h3>
+
+<table>
+    <tr>
+        <td>Full Stack Developer Certificate</td>
+        <td>Coding Dojo</td>
+    </tr>
+    <tr>
+        <td>B.S. Informatics</td>
+        <td>Baylor University - College of Engineering and Computer Science</td>
     </tr>
 </table>
 
