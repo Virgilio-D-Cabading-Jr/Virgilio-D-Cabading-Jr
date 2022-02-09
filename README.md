@@ -34,7 +34,7 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 <hr/>
 
 Contact Me ☎:
-<table style="width:100%;">
+<table width="100%">
     <tr>
         <td>1</td>
         <td>Resume</td>
