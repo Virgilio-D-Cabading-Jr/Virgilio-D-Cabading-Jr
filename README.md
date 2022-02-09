@@ -4,8 +4,8 @@
 
 ## Hello human, 👋🏼
 <br>
-<p style="background-color: blue; color:white; border-radius:20px" align="center">
-Hi, I am <strong>Virgilio D. Cabading Jr</strong>, an enthusiastic, team oriented, and quick learning Software Developer.
+<p align="center">
+Hi, I am <strong><u>Virgilio D. Cabading Jr</u></strong>, an enthusiastic, team oriented, and quick learning Software Developer.
 </p>
 
 <p  align="center">
