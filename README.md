@@ -4,11 +4,11 @@
 
 ## Hello human, 👋🏼
 <br>
-<p align="center">
+<p style="background-color: blue; color:white; border-radius:20px" align="center">
 Hi, I am <strong>Virgilio D. Cabading Jr</strong>, an enthusiastic, team oriented, and quick learning Software Developer.
 </p>
 
-<p align="center">
+<p  align="center">
 I recently completed an immersive training experience in Full Stack Developement using  Python (Flask), Java (Spring) and Javascript (MERN) through Coding Dojo.
 </p>
   
