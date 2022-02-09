@@ -3,7 +3,7 @@
 ////////////////////////////////////////////////// -->
 
 <p align="center">
-    <img src="./img/welcome-github.gif" alt="Hello World"/>
+    <img src="./img/welcome-github.gif" alt="Hello World" width="100%" />
 </p>
 <h2>
 Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and quick learning Software Developer
