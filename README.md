@@ -5,7 +5,7 @@
 ## Hello human, 👋🏼
 <br>
 <p align="center">
-Hi, I am Virgilio D. Cabading Jr., an enthusiastic, team oriented, and quick learning Software Developer.
+Hi, I am <strong>Virgilio D. Cabading Jr</strong>, an enthusiastic, team oriented, and quick learning Software Developer.
 </p>
 
 <p align="center">
