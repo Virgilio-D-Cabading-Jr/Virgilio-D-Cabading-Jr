@@ -33,12 +33,12 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
-Contact Me ☎:
-<table width="100%">
+<h3>Contact Me ☎:</h3>
+<table>
     <tr>
         <td>1</td>
         <td>Resume</td>
-        <td><a href="https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing">docs.google.com</a></td>
+        <td><a href="https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing">https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing</a></td>
     </tr>
     <tr>
         <td>2</td>
@@ -46,9 +46,9 @@ Contact Me ☎:
         <td><a href="https://www.linkedin.com/in/virgilio-cabading/">linkedin.com/in/virgilio-cabading/</a></td>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Resume</td>
-        <td></td>
+        <td>3</td>
+        <td>GitHub</td>
+        <td><a href="https://github.com/Virgilio-D-Cabading-Jr">https://github.com/Virgilio-D-Cabading-Jr</a></td>
     </tr>
 </table>
 1. Resume: <a href="https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing">docs.google.com</a>
