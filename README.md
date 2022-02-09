@@ -3,7 +3,7 @@
 ////////////////////////////////////////////////// -->
 
 <p align="center">
-    <img src="./img/welcome-github.gif" alt="Hello World" width="100%" />
+    <img src="./img/welcome-github.gif" alt="Hello World" width="75%" />
 </p>
 <h2>
 Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and quick learning Software Developer
@@ -66,6 +66,10 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
         <td><a href="https://github.com/Virgilio-D-Cabading-Jr">https://github.com/Virgilio-D-Cabading-Jr</a></td>
     </tr>
 </table>
+
+<p align="center">
+    <img src="./img/lofi-hello.gif" alt="Hello..." width="75%" />
+</p>
 
 <!--
 **Virgilio-D-Cabading-Jr/Virgilio-D-Cabading-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
