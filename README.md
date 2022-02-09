@@ -18,7 +18,7 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
-<h3>Frameworks I have used 📦:</h3>
+<h3>Frameworks I have use 📦:</h3>
 
 1. MERN: [ MongoDB, Express, React, Node.js ]
 2. Spring Boot
