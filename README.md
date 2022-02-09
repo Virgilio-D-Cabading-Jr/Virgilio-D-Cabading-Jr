@@ -2,16 +2,28 @@
 //  VIRGILIO CABADING'S GITHUB README MARKDOWN
 ////////////////////////////////////////////////// -->
 
-## Hello human, 👋🏼
+<img src="./img/welcome-github.gif" alt="Hello World">
 <br>
-<h2 align="center">
-Hi 👋🏼, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and quick learning Software Developer.
+<h2>
+Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and quick learning Software Developer
 </h2>
+<hr/>
+<h3>Languages I have experience in developing ✍🏼:</h3>
 
-<p  align="center">
-I recently completed an immersive training experience in Full Stack Developement using  Python (Flask), Java (Spring) and Javascript (MERN) through Coding Dojo.
-</p>
-  
+1. Javascript
+2. Java
+3. Python
+4. HTML / CSS
+
+<hr/>
+
+<h3>Frameworks I have used 📦:</h3>
+
+1. MERN
+2. Spring Boot
+3. Flask
+
+<hr>Databases I use 📚:
 <!--
 **Virgilio-D-Cabading-Jr/Virgilio-D-Cabading-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
