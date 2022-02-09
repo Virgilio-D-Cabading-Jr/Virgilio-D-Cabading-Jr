@@ -33,8 +33,9 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
-Contact me ☎:
-1.  <a href="https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing">Resume</a> 
+Contact Me ☎:
+1. <a href="https://docs.google.com/document/d/1Rr6V7IZ-O6gJKC_koRuQSvYyAmNhETH3zjuo7DueJWg/edit?usp=sharing">Resume</a>
+2. <a href="https://www.linkedin.com/in/virgilio-cabading/">LinkedIn</a>
 
 <!--
 **Virgilio-D-Cabading-Jr/Virgilio-D-Cabading-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
