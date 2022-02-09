@@ -20,11 +20,17 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <h3>Frameworks I have used 📦:</h3>
 
-1. MERN
+1. MERN: [ MongoDB, Express, React, Node.js ]
 2. Spring Boot
 3. Flask
 
-<hr>Databases I use 📚:
+<hr/>
+
+<h3>Databases I use 📚:</h3>
+
+1. MySQL: [ workbench ]
+2. MongoDB: [ NoSQL, Mongoose ]
+
 <!--
 **Virgilio-D-Cabading-Jr/Virgilio-D-Cabading-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
