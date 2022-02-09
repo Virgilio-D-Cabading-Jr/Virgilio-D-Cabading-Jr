@@ -2,7 +2,9 @@
 //  VIRGILIO CABADING'S GITHUB README MARKDOWN
 ////////////////////////////////////////////////// -->
 
-<img src="./img/welcome-github.gif" alt="Hello World" align="center">
+<p align="center">
+    <img src="./img/welcome-github.gif" alt="Hello World"/>
+</p>
 <h2>
 Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and quick learning Software Developer
 </h2>
