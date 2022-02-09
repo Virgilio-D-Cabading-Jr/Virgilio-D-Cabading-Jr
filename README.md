@@ -33,6 +33,21 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
 
 <hr/>
 
+<h3>My Education 🎓:</h3>
+
+<table>
+    <tr>
+        <td>Full Stack Developer Certificate</td>
+        <td>Coding Dojo</td>
+    </tr>
+    <tr>
+        <td>B.S. Informatics</td>
+        <td>Baylor University - College of Engineering and Computer Science</td>
+    </tr>
+</table>
+
+<hr/>
+
 <h3>Contact Me ☎:</h3>
 <table>
     <tr>
@@ -49,21 +64,6 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
         <td>3</td>
         <td>GitHub</td>
         <td><a href="https://github.com/Virgilio-D-Cabading-Jr">https://github.com/Virgilio-D-Cabading-Jr</a></td>
-    </tr>
-</table>
-
-<hr/>
-
-<h3>My Education 🎓:</h3>
-
-<table>
-    <tr>
-        <td>Full Stack Developer Certificate</td>
-        <td>Coding Dojo</td>
-    </tr>
-    <tr>
-        <td>B.S. Informatics</td>
-        <td>Baylor University - College of Engineering and Computer Science</td>
     </tr>
 </table>
 
