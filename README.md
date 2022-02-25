@@ -57,11 +57,16 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
     </tr>
     <tr>
         <td>2</td>
+        <td>Portfolio</td>
+        <td><a href="https://virgilio-d-cabading-jr.github.io/portfolio/">Virgilio Cabading Portfolio</a></td>
+    </tr>
+    <tr>
+        <td>3</td>
         <td>LinkedIn</td>
         <td><a href="https://www.linkedin.com/in/virgilio-cabading/">linkedin.com/in/virgilio-cabading/</a></td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td>GitHub</td>
         <td><a href="https://github.com/Virgilio-D-Cabading-Jr">https://github.com/Virgilio-D-Cabading-Jr</a></td>
     </tr>
