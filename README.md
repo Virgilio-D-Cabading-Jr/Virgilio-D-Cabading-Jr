@@ -53,7 +53,7 @@ Hi, I am ✨ Virgilio D. Cabading Jr ✨, an enthusiastic, team oriented, and qu
     <tr>
         <td>1</td>
         <td>Resume</td>
-        <td><a href="https://drive.google.com/file/d/1eQ47OPjhQiiqSZ0uY7EXeNV61AGn1TFo/view?usp=sharing">https://drive.google.com/file/d/1eQ47OPjhQiiqSZ0uY7EXeNV61AGn1TFo/view?usp=sharing</a></td>
+        <td><a href="https://drive.google.com/file/d/1NYiBUnbm4hnguZRXPZT1f0l45VhnUGDD/view?usp=sharing">https://drive.google.com/file/d/1NYiBUnbm4hnguZRXPZT1f0l45VhnUGDD/view?usp=sharing</a></td>
     </tr>
     <tr>
         <td>2</td>
